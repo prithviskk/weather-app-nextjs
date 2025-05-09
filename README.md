@@ -4,12 +4,12 @@ A sleek and responsive weather application built with **Next.js**, leveraging we
 
 ## 🚀 Features
 
-- 🌍 Search weather by city
-- 🌦️ Real-time temperature, humidity, wind speed, and weather conditions
-- 🌓 Dark mode toggle
-- 📍 Detects your current location (using Geolocation API)
-- ⚡ Lightning-fast performance with Next.js
-- 📱 Fully responsive on all devices
+-  Search weather by city
+-  Real-time temperature, humidity, wind speed, and weather conditions
+-  Dark mode toggle
+-  Detects your current location (using Geolocation API)
+-  Lightning-fast performance with Next.js
+-  Fully responsive on all devices
 
 ## 🔧 Tech Stack
 
@@ -18,10 +18,6 @@ A sleek and responsive weather application built with **Next.js**, leveraging we
 - **API**: OpenWeatherMap / WeatherAPI (whichever you're using)
 - **Deployment**: Vercel / Netlify (add link if deployed)
 
-## 📸 Screenshots
-
-![Home Page](./public/screenshots/home.png)
-_Add your own screenshots here_
 
 ## 🔑 Getting Started
 
